@@ -1,0 +1,92 @@
+[
+  {
+     "id": 789527,
+        "name": "Kičevo",
+        "country": "MK"
+  },
+  {
+    "id": 785082,
+        "name": "Tetovo",
+        "country": "MK"
+  },
+  {
+    "id": 785387,
+        "name": "Struga",
+        "country": "MK"
+  },
+  {
+   "id": 785842,
+        "name": "Skopje",
+        "country": "MK"
+  },
+  {
+     "id": 787487,
+        "name": "Ohrid",
+        "country": "MK"
+  },
+  {
+     "id": 788886,
+        "name": "Kumanovo",
+        "country": "MK"
+  },
+  {
+    "id": 790295,
+        "name": "Gostivar",
+        "country": "MK"
+  },
+  {
+     "id": 790744,
+        "name": "Gevgelija",
+        "country": "MK"
+  },
+  {
+     "id": 791606,
+        "name": "Debar",
+        "country": "MK"
+  },
+  {
+    "id": 792578,
+        "name": "Bitola",
+        "country": "MK"
+  },
+  {
+    "id": 863888,
+        "name": "Prilep",
+        "country": "MK"
+  },
+  {
+    "id": 7285161,
+        "name": "Basel",
+        "country": "CH"
+  },
+  {
+    "id": 2825297,
+        "name": "Stuttgart",
+        "country": "DE"
+  },
+  {
+    "id": 292968,
+    "name": "Abu Dhabi",
+    "country": "AE"
+  },
+  {
+    "id": 5128638,
+    "name": "New York",
+    "country": "US"
+  },
+  {
+    "id": 1850147,
+    "name": "Tokyo",
+    "country": "JP"
+  },
+  {
+    "id": 2643743,
+        "name": "London",
+        "country": "GB"
+  },
+  {
+    "id": 2968815,
+        "name": "Paris",
+        "country": "FR"
+  }
+]
